@@ -1,0 +1,11 @@
+# Docker
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Elasticsearch data
+es_data/
+
+# Filebeat
+filebeat.yml
